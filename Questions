@@ -1,0 +1,55 @@
+1.What will be the output of the program? q1 - > Finally
+
+2.What gets printed when the following program is compiled and run. Select the one correct answer.
+	q2 -> -4
+	
+3.What is the result of evaluating the expression 14 ^ 23. Select the one correct answer.  
+	^ is bitwise or in java -> 25
+	
+4.What is an aggregate object?
+	An instance which has other objects
+	
+5.Which all lines are part of the output when the following code is compiled and run. Select the six correct answers.
+
+6.Which of the following statements are true. Select the two correct answers. 
+a.	The wait method defined in the Thread class, can be used to convert a thread from Running state to Waiting state. 
+b.	The wait(), notify(), and notifyAll() methods must be executed in synchronized code.
+c.	The notify() and notifyAll() methods can be used to signal and move waiting threads to ready-to-run state. 
+d.	The Thread class is an abstract class.  
+
+	b & C
+	
+7.What gets printed when the following code is compiled and run with the following command - java test 2 Select the one correct answer.
+ 1
+ 
+8.What is the result?
+	Compile error.
+	
+9.What is output
+	[banana, cherry, papaya, apple, mango]
+	
+10.Which statement is true regarding the creation of default constructor?
+(A) The default constructor initializes local variables. 
+(B) The default constructor invokes the constructor of the superclass. 
+(C)  The default constructor initializes the instance variables declared in the class. 
+(D) When class has only constructor with parameter, the compiler creates a Default constructor 
+Answer : The default constructor initializes the instance variables declared in the class.
+
+11.What all gets printed when the following program is compiled and run. Select the one correct answer. 
+
+12.Which of the following are legal identifier names in Java. Select the two correct answers. 
+a.	%abcd 
+b.	$abcd 
+c.	1abcd 
+d.	package 
+e.	_a_long_name 
+
+Answer : b, e
+
+13.What is the range of values that can be specified for an int. Select the one correct answer.
+ -231 to 231 - 1
+
+
+
+
+	
